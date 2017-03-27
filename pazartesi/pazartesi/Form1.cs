@@ -21,6 +21,8 @@ namespace pazartesi
         {
             MessageBox.Show("değişiklik");
             //branch master
+            MessageBox.Show("branchikinci");
+            //branch iki
         }
     }
 }
